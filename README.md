@@ -10,7 +10,7 @@ Hola chicos en este repositorio encontraran toda la clase 1 del curso de vision 
 - Para iniciar con la programación debes de instalar Python y Pycharm, para esto te dejo los instaladores en este [link.](https://drive.google.com/drive/folders/1QY4yvfdcG3BObTwtHJSdWfW-vPyKMiNS?usp=share_link)
 
 ### Tu primera imagen:
-- INICIAMOS con la programación, en este primer script buscamos crear una imagen negra y a su vez modificar algunos píxeles con valores personalizados, recuerda que puedes ver la explicación completa en este [video.](https://youtu.be/meNN1TRyojY)
+- INICIAMOS con la programación; [ImagenesBN.py,](https://github.com/AprendeIngenia/INTRODUCCION-A-LAS-IMAGENES-CLASE-1/blob/f1a939c248a90e831e05a54842b21837309a86d6/ImagenesBN.py) en este primer script buscamos crear una imagen negra y a su vez modificar algunos píxeles con valores personalizados, recuerda que puedes ver la explicación completa en este [video.](https://youtu.be/meNN1TRyojY)
 
 ![CURSO ACELERADO OPENCV](https://user-images.githubusercontent.com/85022752/216788774-cb929c8c-6710-49a3-b713-66624cbb76e7.jpg)
 
