@@ -5,7 +5,7 @@ Hola chicos en este repositorio encontraran toda la clase 1 del curso de vision 
 - En este repositorio aprenderá y se expondrá a una amplia gama de temas interesantes como manipulación de imágenes y videos, mejora de imágenes, filtrado, detección de bordes, detección y seguimiento de objetos, detección de rostros y el módulo de aprendizaje profundo con OpenCV.
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre las imágenes, por eso te dejamos la explicación en este [video.](https://youtu.be/meNN1TRyojY)
 
-![Miniatura (2)](https://user-images.githubusercontent.com/85022752/216784273-67edbe59-bf47-4518-8ce5-2f8fc4ca92a4.jpg)
+![Miniatura YouTube curso SEO 3D morado (1)](https://user-images.githubusercontent.com/85022752/235784580-772ff958-642e-49fe-9a74-2f5980e4ff7f.jpg)
 
 ### Instalación del entorno:
 - Para iniciar con la programación debes de instalar Python y Pycharm, para esto te dejo los instaladores en este [link.](https://drive.google.com/drive/folders/1QY4yvfdcG3BObTwtHJSdWfW-vPyKMiNS?usp=share_link)
